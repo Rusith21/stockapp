@@ -1,0 +1,9 @@
+A101,Milk Packet 2,2025-05-25
+A102,Eggs,2025-05-28
+A103,Fresh Bread,2025-05-22
+A104,Butter,2025-06-01
+A105,Tomatoes,2025-05-23
+A106,Yogurt,2025-05-28
+A107,Chicken,2025-05-23
+A110,Apples,2025-05-30
+12,navindu,2025-05-22
